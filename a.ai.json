@@ -1,18 +1,18 @@
 {
-  "AppUpdate": "true",
+  "AppUpdate": "false",
   "UpdateUrl": "https://example.com/page1",
   
   "AppRun": "true",
   
   
-  "ProfileUrl": "Contact",
-  "Name": "https://example.com/contact",
+  "ProfileUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjutCUMJ_myZh4DEy-NyD3BiOc52NltY1IX8qZLlScTWkoQJob9C235o6n8ktMQgd_q6eM95SVskdCzxzS8UXhNvGTL-DKZggViVZgz5ZHlfAvBZUv3LfOybjQqmU7F9SUIWVY0YrZEBUuTCQcDb4uLGxnHOS6BkdOP2X5Aghvo2z20ZCYwQ02-eBKxpgQD/s320/504885370_17847279066489346_8083229355028779554_n.jpg",
+  "Name": "Saharan Hussain Laskar",
   
-  "AddressName": "Contact",
-  "AddressUrl": "https://example.com/contact",
+  "AddressName": "Satkarakandi Pt II (Sangjurai)",
+  "AddressUrl": "https://maps.app.goo.gl/nkL4WeoLZZ6598Kk8",
   
-  "PhNumber": "Contact",
-  "InstagramUrl": "https://example.com/contact",
+  "PhNumber": "+917002138768",
+  "InstagramUrl": "https://www.instagram.com/mr.saharan_lxr?igsh=bDc2c2J5eHY3dTdo",
   
   "Title1": "Contact",
   "Url1": "https://example.com/contact",
