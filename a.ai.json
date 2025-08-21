@@ -3,11 +3,26 @@
   "UpdateUrl": "https://example.com/page1",
   
   "AppRun": "true",
-  "url2": "https://example.com/about",
+  
+  
+  "ProfileUrl": "Contact",
+  "Name": "https://example.com/contact",
+  
+  "AddressName": "Contact",
+  "AddressUrl": "https://example.com/contact",
+  
+  "PhNumber": "Contact",
+  "InstagramUrl": "https://example.com/contact",
   
   "title3": "Contact",
   "url3": "https://example.com/contact",
   
-  "title4": "",
-  "url4": ""
+  "end": "",
+  
+  
+  
+  
+  
+  
+  "end": ""
 }
