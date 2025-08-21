@@ -1,5 +1,5 @@
 {
-  "AppUpdate": "false",
+  "AppUpdate": "true",
   "UpdateUrl": "https://example.com/page1",
   
   "AppRun": "true",
@@ -14,13 +14,26 @@
   "PhNumber": "Contact",
   "InstagramUrl": "https://example.com/contact",
   
-  "title3": "Contact",
-  "url3": "https://example.com/contact",
-  
-
-  
-  
-  
+  "Title1": "Contact",
+  "Url1": "https://example.com/contact",
+  "Title2": "Contact",
+  "Url2": "https://example.com/contact",
+  "Title3": "Contact",
+  "Url3": "https://example.com/contact",
+  "Title4": "Contact",
+  "Url4": "https://example.com/contact",
+  "Title5": "Contact",
+  "Url5": "https://example.com/contact",
+  "Title6": "Contact",
+  "Url6": "https://example.com/contact",
+  "Title7": "Contact",
+  "Url7": "https://example.com/contact",
+  "Title8": "Contact",
+  "Url8": "https://example.com/contact",
+  "Title9": "Contact",
+  "Url9": "https://example.com/contact",
+  "Title10": "Contact",
+  "Url10": "https://example.com/contact",
   
   
   
