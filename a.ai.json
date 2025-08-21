@@ -1,5 +1,5 @@
 {
-  "AppUpdate": "false",
+  "AppUpdate": "true",
   "UpdateUrl": "https://example.com/page1",
   
   "AppRun": "true",
