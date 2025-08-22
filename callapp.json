@@ -1,0 +1,19 @@
+{
+  "profileImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjutCUMJ_myZh4DEy-NyD3BiOc52NltY1IX8qZLlScTWkoQJob9C235o6n8ktMQgd_q6eM95SVskdCzxzS8UXhNvGTL-DKZggViVZgz5ZHlfAvBZUv3LfOybjQqmU7F9SUIWVY0YrZEBUuTCQcDb4uLGxnHOS6BkdOP2X5Aghvo2z20ZCYwQ02-eBKxpgQD/s1080/504885370_17847279066489346_8083229355028779554_n.jpg",
+  "name": "Developer Saharan Hussain Laskar",
+  "address": "Satkarakandi Pt II (Sangjurai)",
+  "locationUrl": "https://maps.app.goo.gl/nkL4WeoLZZ6598Kk8",
+  "contact": "+91 70021 38768",
+  "callUrl": "tel:+917002138768",
+  "instagramUrl": "https://instagram.com/",
+  "qrImage": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example",
+  "favicon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+
+  "icons": {
+    "location": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPe4t6yXJ01D6M5Or6Xqk-rV6BPU5JNDYcQHCuruh4h_bZdLSXtvrSSdeBPzebX5pOhdQu2f_aCKGcOuCZZSSDd3wXaUcIaVKjpnFLPFaA_CcrVgfKEaGOx6KpWayu3-mDhuud0arvWYptMZ3w-m_DX7vi7D3HwqEAnhnPLUes766KmIr314J9ythgNodo/s48/ic_room_grey.png",
+    "call": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkIOg9-_AYhYGfbWPLzjvIeZjSOq4OqrEBy7d_KYe14-ECtfnkKhMTGaNMbs9opghKYpY1hCktS4PSh9FB4pCzqStBvSv39hKCYpdGE7LYtbISQgLsEb4F7ovKSHiqmhwV8QKu9dU3FWIcESI5D1IKZhcADZsrcbq91euZVju0KgS5ZYSMtmaqUzzCDWcz/s48/ic_call_grey.png",
+    "instagram": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "back": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQTYBp6m1SklySFI3YUAdCji8coqbvb9_kYeEg44TzQlTFtHuOS-pz6pcGOpBr5v9cU1oOfmvSFhrLESIHFn1FWsobjilNmEnOnWLUrALr9E69ECOq9kiOQff2R3HPZJ0dxkitwjU6tQjinoH3wHMBbjJxKn910mxJws1Pb5txFxRSnjd1T-eGxES0au/s48/ic_arrow_forward_grey.png",
+    "qr": "https://cdn-icons-png.flaticon.com/512/825/825678.png"
+  }
+}
