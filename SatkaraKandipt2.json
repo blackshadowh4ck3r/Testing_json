@@ -1,0 +1,46 @@
+{
+  "sliderTitle": "Featured Slides",
+  "slides": [
+    {
+      "image": "https://picsum.photos/id/1015/800/220",
+      "url": "https://example.com/page1"
+    },
+    {
+      "image": "https://picsum.photos/id/1016/800/220",
+      "url": "https://example.com/page2"
+    },
+    {
+      "image": "https://picsum.photos/id/1018/800/220",
+      "url": "https://example.com/page3"
+    },
+    {
+      "image": "https://picsum.photos/id/1020/800/220",
+      "url": "https://example.com/page4"
+    }
+  ],
+  "iconsSection": {
+    "title": "Participate And Earn",
+    "icons": [
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
+        "label": "Surveys",
+        "url": "https://example.com/surveys"
+      },
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/3190/3190131.png",
+        "label": "OfferWalls",
+        "url": "https://example.com/offerwalls"
+      },
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/2950/2950651.png",
+        "label": "Refer & Earn",
+        "url": "https://example.com/refer"
+      },
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png",
+        "label": "Quiz",
+        "url": "https://example.com/quiz"
+      }
+    ]
+  }
+}
