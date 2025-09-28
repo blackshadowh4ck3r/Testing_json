@@ -13,13 +13,20 @@
       "image": "https://picsum.photos/id/1018/800/220",
       "url": "https://example.com/page3"
     },
+    
+    {
+      "image": "https://picsum.photos/id/1018/800/220",
+      "url": "https://example.com/page3"
+    },
+    
+    
     {
       "image": "https://picsum.photos/id/1020/800/220",
       "url": "https://example.com/page4"
     }
   ],
   "iconsSection": {
-    "title": "Abdul wadid Mozumder 786",
+    "title": "Participate And Earn",
     "icons": [
       {
         "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
@@ -36,6 +43,13 @@
         "label": "Refer & Earn",
         "url": "https://example.com/refer"
       },
+      
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/2950/2950651.png",
+        "label": "Sex",
+        "url": "https://example.com/refer"
+      },
+      
       {
         "image": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png",
         "label": "Quiz",
