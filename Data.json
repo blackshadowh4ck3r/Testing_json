@@ -1,1 +1,20 @@
-
+{
+  "loginKey": "mypassword123",
+  "categories": ["Trending","Live","Latest"],
+  "videos": [
+    {
+      "title": "Morning walk by the lake",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "thumb": "https://picsum.photos/900/600?random=1",
+      "category": "Trending",
+      "publishedDate": "2025-09-30"
+    },
+    {
+      "title": "Sunset timelapse",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "thumb": "https://picsum.photos/900/600?random=2",
+      "category": "Live",
+      "publishedDate": "2025-09-29"
+    }
+  ]
+}
