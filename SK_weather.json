@@ -1,12 +1,13 @@
 {
   "area": "SatkaraKandipt2",
-  "temperature": "32°C",
+  "temperature": "29°C",
   "day": "Cloudy",
   "realFeel": "32°C",
-  "uv": "4",
-  "pressure": "1012mb",
+  "uv": "0",
+  "pressure": "1007mb",
   "humidity": "77%",
   "wind": "3 kph",
   "airQuality": "Good",
-  "backgroundGif": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/Rainy_day_.mp4"
+  "backgroundGif": "https://i.gifer.com/7pJ.gif",
+  "backgroundVideo": "https://cdn.coverr.co/videos/coverr-clouds-moving-across-the-sky-0494/1080p.mp4"
 }
