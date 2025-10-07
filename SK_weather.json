@@ -8,5 +8,5 @@
   "humidity": "77%",
   "wind": "3 kph",
   "airQuality": "Good",
-  "backgroundGif": "https://github.com/blackshadowh4ck3r/Testing_json/blob/main/Rainy_day_.mp4"
+  "backgroundGif": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/Rainy_day_.mp4"
 }
