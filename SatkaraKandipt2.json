@@ -63,6 +63,12 @@
       },
 
       {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/"
+      },
+
+      {
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHhzbHtcBqGVSngcxgdq-QIbjF9zH2BWccI8YyOqe2hw9xtQV20ELN1nadUOi4AcRDa6PLlw51OFtKvwszlbgJPDyUMkV9L7rlU31ktDrcj3rXIPA5StE22p3Knk8BtokjQytedFGaVqqL6FuHEKz1naIM4bcYIC5ks62LrDNAs17izXZxBj1_i_Iw_w/s512/add-contact.png",
         "label": "Add Contact",
         "url": "https://skcontactsev.blogspot.com/?m=1"
