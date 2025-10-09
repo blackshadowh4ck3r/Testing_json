@@ -111,9 +111,15 @@
       },
 
       {
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGMfS-O72CzyWv08mVJ_6T9mtp6ZSloQ7N6a1IFSOTKup_XFtboNe7ZwsyoWFFKmObVEoEY-UOsDEos3cMr1q9_8sTeDMpsbF3F-k1RG3PY8m6HmlBpMZE7znFy1_M781HzBOCCnt90Oj4BfhzPDTx1je907N1tyJnErK8Q9mNM8J5keo6GhNtx3VzkVY/s512/using-phone%20%281%29.png",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijTwWu5Lo7IU52yk1rnXV7BYtya-PXa-rSByhGGNDPKIYsPdSN8c7TDydjS132eWNECz2X1P18CykKhlMwoxaP7HoaE1BS6qrQHMXhLZ755Akciy2HDC0m1PBURW_mKlHlCPwE5QM5BKi6KLQhpyiLJWYAIl20CGrjHA09jMCJKk8GwMue1ZJoKjOihog/s512/qr-code%20%281%29.png",
         "label": "QR Scanner",
         "url": "https://qrcodescan.in/"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVIuWc5kGMR8oXSlnT-LxAY14IkkcE1dj2ZIe50z961USIIMsCxZ3zQE5KMx5D53_kD3Du0Q6TgdmwdecmUBLk0DR1jAtK3xqd-6F5TVx3xNrLzia7coh_emowHipzjNxinotpuAJVxOx8W2DuzZPI2-Hjvi121CfSDQGr2k_QnfNFZRMysuvVCdfS2wY/s512/speed-test.png",
+        "label": "Speed",
+        "url": "https://pcmag.speedtestcustom.com/"
       },
 
       {
