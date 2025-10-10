@@ -1,13 +1,13 @@
 {
   "area": "SatkaraKandi Pt 2",
-  "temperature": "26°C",
-  "day": "Cloudy",
-  "realFeel": "31°C",
-  "uv": "3",
-  "pressure": "1011mb",
+  "temperature": "29°C",
+  "day": "Clear",
+  "realFeel": "30°C",
+  "uv": "5",
+  "pressure": "1009mb",
   "humidity": "85%",
-  "wind": "9.2kph",
-  "airQuality": "74% Good",
+  "wind": "5.1kph",
+  "airQuality": "67% Good",
   "backgroundGif": "https://i.gifer.com/7pJ.gif",
   "backgroundVideo": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/Rainy_day_.mp4"
 }
