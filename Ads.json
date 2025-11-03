@@ -1,46 +1,8 @@
 {
-  "Ads_video_url": "https://m16.fastytcdn.com/c/bc56e7bb-5968-4605-9218-37be9108e2dc/QWFUNzhEa2J5YlVfNzIwcA_out.mp4",
-  "Ads_web_url": "https://play.google.com/store/apps/details?id=com.ce.android.brand.thecouchtomato",
   "Ads_show": "1",
-  "App_Update_Message": "Enjoy your new version *Run time web white screen showing problem fixed *Run time internet connection lose problem fixed",
   
-  
-  "App_Update_Url": "https://download854.mediafire.com/nacwuyrgnawgqaVvvXc-ejZeNvpfdr6PKU5wsDkicqBFoKBPB3sZrAa73iJAQkZXLbRvZ7k9WlFMKJIqzXFR6oK-hLygNe2hgq4v0dvEUSpoHZA2GeHLKSg1TcnnP2OJ9deN0iTkyKYj1gvF3VwW-N-SwWIeSou8AsFO8s0Is0yT9ztL/b8bufe4temk6ycr/Satkarakandipt2_1.0.apk",
-  
-  
-  "Splash_Screen_Center_Text_Show": "true",
-  "Splash_Screen_Center_Text": "https",
-  
-  "Splash_Screen_Center_Text_Size": "20",
-  "Splash_Screen_Bottom_Text_Show": "true",
-  
-  "Splash_Screen_Bottom_Text": "Ai Video Generate",
-  "Splash_Screen_Bottom_Text_Size": "10",
-  
-  "Website_With_Url": "true",
-  "Website_Url": "https://calling2025.blogspot.com/#",
-  
-  
-  "Website_With_Asset_Folder": "true",
-  "Website_With_Asset_Folder_Name": "project1",
-  
-  
-  "Website_Zoomin_Zoomout": "false",
-  
-  "App_StatusBar_Show": "true",
-  "App_ToolBar_Show": "true",
-  "App_ToolBar_Title": "Title",
-  "App_ToolBar_Sub_Title": "",
-  "App_ToolBar_Title_Color": "#FF3F00",
-  "App_ToolBar_Sub_Title_Color": "#FF00DF",
-  "App_ToolBar_Color": "#80FF00",
-  "App_StatusBar_Color": "#00FFEB",
-  
-  "Url8": "https://example.com/contact",
-  "Title9": "UpComing",
-  "Url9": "https://example.com/contact",
-  "Title10": "UpComing",
-  "Url10": "https://example.com/contact",
+  "Ads_video_url": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/TomatoAds_480p.mp4",
+  "Ads_web_url": "https://play.google.com/store/apps/details?id=com.ce.android.brand.thecouchtomato",
   
   
   
