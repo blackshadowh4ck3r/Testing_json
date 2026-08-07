@@ -1,10 +1,48 @@
 {
-  "name": "Rahul",
+  "p1_showing": "Rahul",
+  "p1_name": "Rasin",
+  "p1_image_url": "Rahul",
+  "p1_description": "Rahul",
+  "p1_price": "Rahul",
+  
   "age": 25,
   "city": "Guwahati",
   "isStudent": false,
   "email": "rahul@example.com",
   "phone": "9876543210",
-  "course": "BCA",
-  "college": "ABC College"
+  
+  "whatsapp_shoping_number": "Rahul",
+  "shop_address_enable": "true",
+  
+  "shop_address_name": "BCA",
+    "shop_address_url": "BCA",
+  
+    "teams_access_key": "BCA",
+    
+  "scan_and_download_app_qrcode_link": "BCA",
+  "share_app_message": "Rahul",
+    "share_app_link": "Rahul",
+    
+    "app_update_showing": "Rahul",
+    "app_update_download_link": "Rahul",
+    "app_update_version_code": "Rahul",
+    
+    "app_temporary_close": "Rahul",
+    "app_temporary_close_message": "Rahul",
+    
+    "what_is_epoxy_floor_english": "Rahul",
+    "what_is_epoxy_floor_hindi": "Rahul",
+        "what_is_epoxy_floor_bangla": "Rahul",
+        
+            "developer_name": "Rahul",
+               "developer_profile_url": "Rahul",
+         "developer_message": "Rahul",
+         
+       "d1_showing": "Rahul",
+       "d1_name": "Rahul",
+        "d1_image_url": "Rahul",
+        "d1_description": "Rahul",
+        "d1_pr_sq_ft": "Rahul",
+  
+  "json_load_": "load"
 }
