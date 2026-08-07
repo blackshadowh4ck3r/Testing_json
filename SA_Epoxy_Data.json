@@ -1,0 +1,10 @@
+{
+  "name": "Rahul",
+  "age": 25,
+  "city": "Guwahati",
+  "isStudent": false,
+  "email": "rahul@example.com",
+  "phone": "9876543210",
+  "course": "BCA",
+  "college": "ABC College"
+}
