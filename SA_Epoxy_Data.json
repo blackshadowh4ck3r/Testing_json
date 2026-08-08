@@ -14,10 +14,10 @@
   "whatsapp_shoping_number": "Rahul",
   "shop_address_enable": "true",
   
-  "shop_address_name": "BCA",
-    "shop_address_url": "BCA",
+  "shop_address_name": "Sangjurai Point, Satkarakandi, Sonai, Dhanipur, Assam 788013",
+    "shop_address_url": "https://maps.app.goo.gl/Xs2JEBjzsJuY3Zsy6",
   
-    "teams_access_key": "BCA",
+    "teams_access_key": "SA123",
     
   "scan_and_download_app_qrcode_link": "BCA",
   "share_app_message": "Rahul",
@@ -44,5 +44,5 @@
         "d1_description": "it's best for leaving room",
         "d1_pr_sq_ft": "320",
   
-  "json_load_": "load"
+  "json_load": "true"
 }
