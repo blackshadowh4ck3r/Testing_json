@@ -23,10 +23,10 @@
   "share_app_message": "Rahul",
     "share_app_link": "Rahul",
     
-    "app_update_showing": "Rahul",
-    "app_update_message": "Rahul",
-    "app_update_download_link": "Rahul",
-    "app_update_version_code": "Rahul",
+    "app_update_showing": "true",
+    "app_update_message": "what is new ",
+    "app_update_download_link": "https://github.com/blackshadowh4ck3r/SA-/raw/refs/heads/main/SA%20Epoxy_1.0.apk",
+    "app_update_version_code": "11.0",
     
     "app_temporary_close": "Rahul",
     "app_temporary_close_message": "Rahul",
