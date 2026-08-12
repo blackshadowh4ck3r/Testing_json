@@ -31,7 +31,17 @@
     "app_temporary_close": "Rahul",
     "app_temporary_close_message": "Rahul",
     
-    "what_is_epoxy_floor_english": "Epoxy Flooring Kya Hota Hai?
+    "what_is_epoxy_floor_english": "What is Epoxy Flooring?
+
+Epoxy flooring is a high-performance flooring system created by mixing epoxy resin and a hardener in the correct ratio and applying the mixture to a concrete floor. The chemical reaction between these two materials results in a strong, seamless, smooth, and durable surface.
+
+The key features of epoxy flooring include high strength, a glossy finish, chemical resistance, and longevity. It protects the floor against water, oil, grease, dust, stains, and various chemicals. The surface is easy to clean and requires minimal maintenance.
+
+It is used in factories, warehouses, hospitals, laboratories, parking areas, garages, showrooms, offices, commercial buildings, and homes. Depending on specific requirements, it can be customized with anti-skid, anti-static, self-leveling, metallic, and decorative finishes.
+
+Properly installed epoxy flooring can last for years and easily withstand heavy foot traffic, machinery, and daily wear and tear. For this reason, it is considered one of the most reliable and professional solutions for industrial and commercial flooring.",
+
+    "what_is_epoxy_floor_hindi": "Epoxy Flooring Kya Hota Hai?
 
 Epoxy flooring ek high-performance flooring system hai jo Epoxy Resin aur Hardener ko sahi ratio mein mila kar concrete floor par lagaya jata hai. Dono materials ke chemical reaction ke baad ek mazboot, seamless (bina joints wala), smooth aur durable surface tayyar hota hai.
 
@@ -44,8 +54,15 @@ Iska istemal factories, warehouses, hospitals, laboratories, parking areas, gara
 Sahi tarike se install ki gayi epoxy flooring kai saalon tak chal sakti hai aur heavy foot traffic, machinery aur daily wear & tear ko aasani se jhel sakti hai. Isi wajah se epoxy flooring ko industrial aur commercial flooring ke liye sabse bharosemand aur professional solutions mein se ek mana jata hai.
 
 ",
-    "what_is_epoxy_floor_hindi": "Rahul",
-        "what_is_epoxy_floor_bangla": "Rahul",
+        "what_is_epoxy_floor_bangla": "ইপোক্সি ফ্লোরিং কী?
+
+ইপোক্সি ফ্লোরিং হলো একটি উচ্চ-ক্ষমতাসম্পন্ন মেঝে তৈরির পদ্ধতি, যেখানে সঠিক অনুপাতে ইপোক্সি রেজিন ও হার্ডেনার মিশিয়ে কংক্রিটের মেঝের ওপর প্রয়োগ করা হয়। এই দুটি উপাদানের মধ্যে রাসায়নিক বিক্রিয়ার ফলে একটি শক্তিশালী, মসৃণ, টেকসই এবং জোড়বিহীন (seamless) উপরিভাগ তৈরি হয়।
+
+ইপোক্সি ফ্লোরিংয়ের প্রধান বৈশিষ্ট্যগুলোর মধ্যে রয়েছে উচ্চ স্থায়িত্ব, চকচকে বা উজ্জ্বল ফিনিশ, রাসায়নিক প্রতিরোধ ক্ষমতা এবং দীর্ঘস্থায়ী কার্যকারিতা। এটি মেঝেতে পানি, তেল, গ্রিজ, ধুলোবালি, দাগ এবং বিভিন্ন রাসায়নিকের প্রভাব থেকে সুরক্ষা প্রদান করে। এর উপরিভাগ পরিষ্কার করা সহজ এবং এতে খুব সামান্য রক্ষণাবেক্ষণের প্রয়োজন হয়।
+
+কারখানা, গুদাম, হাসপাতাল, গবেষণাগার, পার্কিং এলাকা, গ্যারেজ, শোরুম, অফিস, বাণিজ্যিক ভবন এবং বাসাবাড়িতে এটি ব্যবহার করা হয়। নির্দিষ্ট প্রয়োজনীয়তা অনুযায়ী, এতে অ্যান্টি-স্কিড (পিছলানি-রোধী), অ্যান্টি-স্ট্যাটিক, সেলফ-লেভেলিং, মেটালিক এবং ডেকোরেটিভ ফিনিশের মতো বৈশিষ্ট্য যুক্ত করে কাস্টমাইজ করা সম্ভব।
+
+সঠিকভাবে স্থাপন করা ইপোক্সি ফ্লোরিং বছরের পর বছর টিকে থাকে এবং মানুষের প্রচুর আনাগোনা, ভারী যন্ত্রপাতি ও নিত্যদিনের ব্যবহারের ফলে সৃষ্ট ঘর্ষণ বা ক্ষয় সহজেই সহ্য করতে পারে। এ কারণেই শিল্প ও বাণিজ্যিক ক্ষেত্রে মেঝে তৈরির জন্য এটিকে অন্যতম নির্ভরযোগ্য ও পেশাদার সমাধান হিসেবে বিবেচনা করা হয়।",
         
             "developer_name": "Rahul",
                "developer_profile_url": "Rahul",
@@ -113,4 +130,5 @@ Sahi tarike se install ki gayi epoxy flooring kai saalon tak chal sakti hai aur 
         "d10_pr_sq_ft": "320",
   
   "json_load": "true"
+}  "json_load": "true"
 }
