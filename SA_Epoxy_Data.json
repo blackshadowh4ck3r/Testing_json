@@ -19,9 +19,9 @@
   
     "teams_access_key": "SA123",
     
-  "scan_and_download_app_qrcode_link": "BCA",
-  "share_app_message": "Rahul",
-    "share_app_link": "Rahul",
+  "scan_and_download_app_qrcode_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6U03JJsggwQTRChZQID5KRWsDqab6d7RtrKHtObPlMTCGw1pMSXua9OizkcNpXpWE0n9wGIUNqIA3E-nfYbh23DuDKsi2at8UI_b6j0bET0bRAOjpHQSDdY4ibNyXTcOaD3mqxw0DwM7q_Qf2yM1OWFJFIuOI-X0wJprcT8ffXLl-FRryNQzchU6l3tc/s1600/1000004437.png",
+  "share_app_message": "Share app message",
+    "share_app_link": "https://github.com/blackshadowh4ck3r/SA-/raw/refs/heads/main/SA%20Epoxy_1.0.apk",
     
     "app_update_showing": "false",
     "app_update_message": "what is new ",
