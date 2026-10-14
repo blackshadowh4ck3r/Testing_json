@@ -1,57 +1,30 @@
 {
-  "slides": [
-    {
-      "image": "https://i.ibb.co/cMNCkqm/Screenshot-2026-09-21-10-06-31-205-lockscreen.jpg",
-      "text": "T1",
-      "buttonText": "B1",
-      "clickUrl": "https://www.image2url.com/en-IN/video-preview?u=https%3A%2F%2Fwww.image2url.com%2Fr2%2Fdefault%2Fvideos%2F1790000575710-35014d78-08ea-4e6f-8eea-9a4f4866e25d.mp4&n=VID_20260910_194221.mp4&t=video%2Fmp4&s=4305697&from=video-to-url"
-    },
-    {
-      "image": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "text": "T2",
-      "buttonText": "B2",
-      "clickUrl": "https://saepoxy.blogspot.com/?m=1"
-    }
-  ],
-  "videos": [
-    {
-      "ads1": "true",
-      "ads2": "https://ssyou.online/en1401Yd/",
-      "description": " "
-    },
-    
-    {
-      "dev_profile_link": "",
-      "dev_profile_name": "https://vectorizer.com/",
-      "dev_profile_bio": " "
-    },
-    
-    {
-      "title": "Text to ai voice mp3",
-      "videoUrl": "https://www.narakeet.com/app/text-to-audio/?projectId=e9a0b710-8cb0-4cd2-9e97-26937729dd3a",
-      "description": " "
-    },
-    
-    {
-      "title": "Youtube Video Downloader",
-      "videoUrl": "https://ssyou.online/en1401Yd/",
-      "description": " "
-    },
-    
-    {
-      "title": "Youtube Video Downloader",
-      "videoUrl": "https://ssyou.online/en1401Yd/",
-      "description": " "
-    },
-    
-    
-    
-    
-    
-    {
-      "title": "More Comming soon...",
-      "videoUrl": "",
-      "description": " "
-    }
-  ]
+
+  
+  "age": 25,
+  "city": "Guwahati",
+  "isStudent": false,
+  
+  
+  "app_update_showing": "false",
+  "app_update_version_code": "11.0",
+  "app_update_download_link": "11.0",
+  "dev_profile_link": "5000",
+  "dev_profile_name": "Abdul",
+  "dev_profile_bio": "bio",
+  "splash_screen_time": "5000",
+  "splash_screen_time": "5000",
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "json_load": "true"
 }
