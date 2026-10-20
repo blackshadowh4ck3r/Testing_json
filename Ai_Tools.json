@@ -57,12 +57,27 @@
     },
 
     {
-      "title": "QR codes Genarator",
-      "videoUrl": "https://www.the-qrcode-generator.com/",
+      "title": "Voicechanger",
+      "videoUrl": "https://voicechanger.io/",
+      "description": " "
+    },
+    {
+      "title": "Files Share",
+      "videoUrl": "https://file.pizza/",
       "description": " "
     },
     
+    {
+      "title": "Song Make",
+      "videoUrl": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://suno.com/&ved=2ahUKEwj8-8bYmciXAxWhkOEIHVnsKUAQFnoECBIQAQ&sqi=2&usg=AOvVaw23nF9Bk8jZ_mOB3b75A7mr",
+      "description": " "
+    },
     
+    {
+      "title": "Price History",
+      "videoUrl": "https://pricehistory.app/",
+      "description": " "
+    },
     
     
     {
